@@ -4,10 +4,6 @@ function App() {
   return (
     <div className="App">
       <div id="eid-greetings">
-        <div class="lanterns swingimage"></div>
-        <div class="lanterns swingimage-1"></div>
-        <div class="lanterns swingimage-2"></div>
-        <div class="lanterns swingimage-3"></div>
         <div id="stars"></div>
         <div id="stars2"></div>
         <div id="stars3"></div>
@@ -42,7 +38,7 @@ function App() {
         </div>
       </div>
       <footer>
-        <p class="left">...جنيد</p>
+        <p class="left">...جونيايد</p>
       </footer>
     </div>
   );
