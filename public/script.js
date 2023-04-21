@@ -1,3 +1,11 @@
+// Get the audio element by its ID
+const audio = document.getElementById("my-audio");
+
+// Set a timeout to mute the audio after 8 seconds
+setTimeout(function () {
+  audio.muted = true;
+}, 11000);
+
 var toggle = true;
 $("#close").fadeOut();
 $(".eid-greetings__Doors").click(function () {
