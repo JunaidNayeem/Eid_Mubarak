@@ -38,7 +38,7 @@ function App() {
         </div>
       </div>
       <footer>
-        <p class="left">...جونيايد</p>
+        <p class="left">...جنيد</p>
       </footer>
     </div>
   );

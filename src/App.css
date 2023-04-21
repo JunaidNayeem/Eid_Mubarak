@@ -1,3 +1,6 @@
+* {
+  font-family: fantasy;
+}
 strong {
   font-weight: bold;
 }
@@ -53,13 +56,13 @@ p {
 }
 
 .top {
-  height: 32px;
+  height: 33px;
   animation-name: goUp;
   animation-duration: 3s;
 }
 
 .bottom {
-  height: 41px;
+  height: 39px;
   animation-name: goDown;
   animation-duration: 5s;
 }
