@@ -30,11 +30,6 @@ function App() {
               </div>
             </div>
           </div>
-          <div id="Doors" class="eid-greetings__Doors">
-            <div class="Doors__background"></div>
-            <div class="Doors__left"></div>
-            <div class="Doors__right"></div>
-          </div>
         </div>
       </div>
       <footer>
